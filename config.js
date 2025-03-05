@@ -1,4 +1,4 @@
-huh//#ENJOY BRO😍
+//#ENJOY BRO😍
 // Credit: JINHUYK|KangJinhuyk 
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
@@ -18,8 +18,8 @@ global.github = process.env.GITHUB || "https://github.com/ChanJinhuyk/JINHUYK-MD
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.postimg.cc/sx2KY0mS/JINHUYK-MD-V1.jpg";
-global.devs = "https://wa.me/263780683925 , https://wa.me/263780683925";
-global.sudo = process.env.SUDO || "263780683925";
+global.devs = "https://wa.me/242067274660 , https://wa.me/242067274660";
+global.sudo = process.env.SUDO || "242067274660";
 global.owner = process.env.OWNER_NUMBER || "263780683925";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
